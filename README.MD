@@ -3,7 +3,7 @@
 dopo la creazione di un file index.html ho definito una classe movie che ha due isntanze:
 - movie1
 - movie2
-ho definito delle variabili:
+## ho definito delle variabili:
 - titolo 
 - anno 
 - genere.
